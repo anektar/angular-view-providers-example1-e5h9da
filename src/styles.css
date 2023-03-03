@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+
+.box {
+  margin: 5px;
+  border: 1px;
+  border-style: solid;
+}
+
+.dirbox {
+  margin: 5px;
+  border: 1px;
+  border-style: dotted;
+}
